@@ -3,6 +3,7 @@ import { clfC02Course } from "./data/course-clf-c02.js";
 import { aifC01Course } from "./data/course-aif-c01.js";
 import { saaC03Course } from "./data/course-saa-c03.js";
 import { dvaC02Course } from "./data/course-dva-c02.js";
+import { soaC02Course } from "./data/course-soa-c02.js";
 import {
   certificationCatalog,
   certificationTracks,
@@ -33,6 +34,7 @@ const COURSE_CONTENT = {
   "aif-c01": aifC01Course,
   "saa-c03": saaC03Course,
   "dva-c02": dvaC02Course,
+  "soa-c02": soaC02Course,
 };
 
 const IMPLEMENTED_COURSE_SLUG =

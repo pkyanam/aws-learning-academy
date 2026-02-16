@@ -65,8 +65,9 @@ export const certificationCatalog = [
     name: "AWS Certified SysOps Administrator - Associate",
     level: "Associate",
     track: "Operations",
-    status: "scaffold",
-    implemented: false,
+    status: "live",
+    implemented: true,
+    featured: false,
     summary:
       "Operate and maintain AWS workloads with monitoring, reliability, and security controls.",
     durationMinutes: 130,
