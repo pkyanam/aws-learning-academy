@@ -50,8 +50,9 @@ export const certificationCatalog = [
     name: "AWS Certified Developer - Associate",
     level: "Associate",
     track: "Application Development",
-    status: "scaffold",
-    implemented: false,
+    status: "live",
+    implemented: true,
+    featured: false,
     summary:
       "Build, deploy, troubleshoot, and optimize cloud-native applications on AWS.",
     durationMinutes: 130,
