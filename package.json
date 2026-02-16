@@ -1,0 +1,12 @@
+{
+  "name": "aws-study-center",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AWS Study Center with certification catalog scaffolds and MLA-C01 exam prep workspace",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "dev:vercel": "vercel dev"
+  }
+}
