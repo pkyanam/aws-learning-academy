@@ -80,8 +80,9 @@ export const certificationCatalog = [
     name: "AWS Certified Data Engineer - Associate",
     level: "Associate",
     track: "Data",
-    status: "scaffold",
-    implemented: false,
+    status: "live",
+    implemented: true,
+    featured: false,
     summary:
       "Design and operationalize data pipelines, storage, and analytics workflows in AWS.",
     durationMinutes: 130,
